@@ -1,0 +1,20 @@
+{
+  "name": "signaling-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Aditya",
+  "license": "ISC",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3"
+  }
+}
