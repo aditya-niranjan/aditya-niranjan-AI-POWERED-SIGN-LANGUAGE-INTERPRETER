@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>sign language interpreter</div>
+    <div className='w-125 h-125 bg-amber-600'>sign language interpreter</div>
   )
 }
 
