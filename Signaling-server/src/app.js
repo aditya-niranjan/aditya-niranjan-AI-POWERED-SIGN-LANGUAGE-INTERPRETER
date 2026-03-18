@@ -7,7 +7,7 @@ app.use(express.json());
 
 
 app.get('/', (req, res) => {
-  res.send("Hello World");
+  res.send("yes server is running and response is coming from the server");
 });
 
 
